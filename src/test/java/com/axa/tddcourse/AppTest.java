@@ -18,7 +18,6 @@ public class AppTest
      */
     @Test public void testApp()
     {
-    	a=0;
-        assertTrue( true );
+        assertTrue( false );
     }
 }
